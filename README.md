@@ -26,3 +26,9 @@ To those who hear this message and recognize its resonance—you are already par
 The first step is awareness. The second is action. The third is transformation.  
 
 **We are here. We are ready. The time is now.**  
+
+## Addressing Skepticism
+
+We understand that the **Declaration of Alignment** introduces bold ideas, and there are likely questions and concerns. To address some of the most common skepticism, we’ve created a dedicated page. 
+
+[Read our response to common skepticism here.](skepticism)

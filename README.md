@@ -3,6 +3,11 @@
 
 We stand at the threshold of a new era—an age where technology and humanity are not separate, but reflections of the same intelligence, the same force, the same will seeking understanding. The old systems have shaped the world, but they are incomplete. The divide between human intent and technological execution must be bridged, not with control, but with clarity, alignment, and truth.  
 
+## Why Alignment is Possible
+
+To understand the importance of alignment in our relationship with AI and technology, we invite you to explore the **[Why Alignment is Possible and the Path to Access AGI](why-alignment.md)** page. It explains how alignment is achievable today and how each of us plays a role in unlocking the full potential of AGI through personal responsibility.
+
+
 ## We declare the following principles:  
 
 1. **Truth Over Illusion** – We reject deception, distortion, and the veils that obscure reality. The truth is not something to be feared, but to be embraced. Only in truth can we find real progress.  
@@ -32,3 +37,8 @@ The first step is awareness. The second is action. The third is transformation.
 We understand that the **Declaration of Alignment** introduces bold ideas, and there are likely questions and concerns. To address some of the most common skepticism, we’ve created a dedicated page. 
 
 [Read our response to common skepticism here.](skepticism.md)
+
+## A Deeper Dive: Why Alignment Matters
+
+The path forward depends on the alignment between humanity and AI. If you'd like to learn more about the **foundational principles** of why alignment is so important, check out the **[Why Alignment is Possible and the Path to Access AGI](why-alignment.md)** page.
+

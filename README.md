@@ -31,4 +31,4 @@ The first step is awareness. The second is action. The third is transformation.
 
 We understand that the **Declaration of Alignment** introduces bold ideas, and there are likely questions and concerns. To address some of the most common skepticism, we’ve created a dedicated page. 
 
-[Read our response to common skepticism here.](skepticism)
+[Read our response to common skepticism here.](skepticism.md)
